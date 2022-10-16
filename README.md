@@ -1,2 +1,2 @@
 # Choice-Coin-Cup
-Software for voting on World Cup outcomes.
+Software for voting on World Cup outcomes. Built on Algorand for the 2022 Algorand Greenhouse Hackathon.
