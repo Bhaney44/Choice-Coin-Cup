@@ -1,10 +1,10 @@
-# Choice-Coin-Cup
+# Choice Coin Cup
 [Choice Coin Cup](https://www.choiceinferno.com/) is an open source software and website for voting on World Cup outcomes. 
 
-# Information
+# GreenHouse Hackathon
 Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.com/algorandfoundation/grow-algorand/issues/191).
 
-[YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
+[YouTube Demo](https://www.youtube.com/watch?v=mhdyFMJ4-JM)
 
 [Blog](https://medium.com/@ChoiceCoin/choice-coin-cup-bdb9ea415bb)
 
@@ -13,3 +13,7 @@ Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.co
 # Software
 
 The software uses a [react](https://reactjs.org/) framework for decentralized application development. The source code is in the [src](https://github.com/Bhaney44/Choice-Coin-Cup/tree/main/src) file.
+
+# Other Information
+
+[v1 YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
