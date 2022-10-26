@@ -6,7 +6,7 @@ Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.co
 
 [YouTube Demo](https://www.youtube.com/watch?v=mhdyFMJ4-JM)
 
-[Blog](https://medium.com/@ChoiceCoin/choice-coin-cup-bdb9ea415bb)
+[Medium Blog](https://medium.com/@ChoiceCoin/choice-coin-cup-bdb9ea415bb)
 
 [Algorand Forum](https://forum.algorand.org/t/choice-coin-cup/8077)
 
