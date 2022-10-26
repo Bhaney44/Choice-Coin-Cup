@@ -16,6 +16,6 @@ The software uses a [react](https://reactjs.org/) framework and the [Algorand Ja
 
 # Other Information
 
-All code is protected by [Copyright Law U.S.C. 17 §§ 101-1511](https://www.law.cornell.edu/uscode/text/17) and made open source according to the [License](https://github.com/Bhaney44/Choice-Coin-Cup/blob/main/LICENSE).
+All code in this repository is protected by [Copyright Law U.S.C. 17 §§ 101-1511](https://www.law.cornell.edu/uscode/text/17) and made open source according to the [License](https://github.com/Bhaney44/Choice-Coin-Cup/blob/main/LICENSE).
 
 [v1 YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
