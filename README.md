@@ -17,3 +17,5 @@ The software uses a [react](https://reactjs.org/) framework and the [Algorand Ja
 # Other Information
 
 [v1 YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
+
+All code is covered under the [License](https://github.com/Bhaney44/Choice-Coin-Cup/blob/main/LICENSE).
