@@ -12,7 +12,7 @@ Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.co
 
 # Software
 
-The software uses a [react](https://reactjs.org/) framework for decentralized application development. The source code is in the [src](https://github.com/Bhaney44/Choice-Coin-Cup/tree/main/src) file.
+The software uses a [react](https://reactjs.org/) framework and the [Algorand Javascript-SDK](https://github.com/algorand/js-algorand-sdk) for decentralized application development. The source code is in the [src](https://github.com/Bhaney44/Choice-Coin-Cup/tree/main/src) file.
 
 # Other Information
 
