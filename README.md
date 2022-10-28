@@ -1,7 +1,7 @@
 # Choice Coin Cup
 [Choice Coin Cup](https://www.choiceinferno.com/) is an open source software and website for voting on World Cup outcomes with Choice Coin on Algorand. 
 
-# Green House Hackathon
+# Algorand Greenhouse Hackathon 2
 Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.com/algorandfoundation/grow-algorand/issues/191) through [Gitcoin](https://gitcoin.co/issue/29368).
 
 [YouTube Demo](https://www.youtube.com/watch?v=Q30YDB-ot6Y)
