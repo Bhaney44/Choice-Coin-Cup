@@ -4,7 +4,7 @@
 # Green House Hackathon
 Built on Algorand for the [2022 Algorand Greenhouse Hackathon](https://github.com/algorandfoundation/grow-algorand/issues/191) through [Gitcoin](https://gitcoin.co/issue/29368).
 
-[YouTube Demo](https://www.youtube.com/watch?v=mhdyFMJ4-JM)
+[YouTube Demo](https://www.youtube.com/watch?v=Q30YDB-ot6Y)
 
 [Medium Blog](https://medium.com/@ChoiceCoin/choice-coin-cup-bdb9ea415bb)
 
@@ -19,3 +19,4 @@ The software uses a [react](https://reactjs.org/) framework and the [Algorand Ja
 All code in this repository is protected by [Copyright Law U.S.C. 17 §§ 101-1511](https://www.law.cornell.edu/uscode/text/17) and made open source according to the [License](https://github.com/Bhaney44/Choice-Coin-Cup/blob/main/LICENSE).
 
 [v1 YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
+[v2 YouTube Demo](https://www.youtube.com/watch?v=mhdyFMJ4-JM)
