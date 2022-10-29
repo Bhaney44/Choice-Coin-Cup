@@ -7,9 +7,5 @@ Choice Coin Cup was built on Algorand for the [2022 Algorand Greenhouse Hackatho
 # Software
 The software uses a [react](https://reactjs.org/) framework and the [Algorand Javascript-SDK](https://github.com/algorand/js-algorand-sdk) for decentralized application development. The source code is in the [src](https://github.com/Bhaney44/Choice-Coin-Cup/tree/main/src) file.
 
-# Other Information
+# License
 All code in this repository is protected by [Copyright Law U.S.C. 17 §§ 101-1511](https://www.law.cornell.edu/uscode/text/17) and made open source according to the Terms of the [Apache License](https://github.com/Bhaney44/Choice-Coin-Cup/blob/main/LICENSE).
-
-[v1 YouTube Demo](https://www.youtube.com/watch?v=3kMrobt61mM)
-
-[v2 YouTube Demo](https://www.youtube.com/watch?v=mhdyFMJ4-JM)
